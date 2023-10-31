@@ -1,2 +1,2 @@
 # UpperComputer
-this is a simple upper computer for my navigation program.
+This is a simple upper computer for my navigation program.
