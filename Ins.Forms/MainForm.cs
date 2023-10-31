@@ -39,7 +39,7 @@ namespace Ins.Forms
             {
                 if (ic.ConnStatus == false)
                 {
-                    ic.Connect(460800, cb_port.Text);
+                    ic.Connect(921600, cb_port.Text);
                     ic.Enc.Cmd_Connect();
                     timer.Enabled = true;
                     _config.ConfigWr("Serial", "Port", cb_port.Text);
