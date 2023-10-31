@@ -1,0 +1,111 @@
+C:\Users\27082\source\repos\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.Acc.resources
+C:\Users\27082\source\repos\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.Link.resources
+C:\Users\27082\source\repos\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.Form1.resources
+C:\Users\27082\source\repos\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.Plots.resources
+C:\Users\27082\source\repos\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.Properties.Resources.resources
+C:\Users\27082\source\repos\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.Setting.resources
+C:\Users\27082\source\repos\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.csproj.GenerateResource.cache
+C:\Users\27082\source\repos\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.csproj.CoreCompileInputs.cache
+C:\Users\27082\source\repos\Ins.Forms\Ins.Forms\bin\Debug\Ins.Forms.exe.config
+C:\Users\27082\source\repos\Ins.Forms\Ins.Forms\bin\Debug\Ins.Forms.exe
+C:\Users\27082\source\repos\Ins.Forms\Ins.Forms\bin\Debug\Ins.Forms.pdb
+C:\Users\27082\source\repos\Ins.Forms\Ins.Forms\bin\Debug\Gcs.Base.dll
+C:\Users\27082\source\repos\Ins.Forms\Ins.Forms\bin\Debug\Ins.Comm.dll
+C:\Users\27082\source\repos\Ins.Forms\Ins.Forms\bin\Debug\Ins.Comm.pdb
+C:\Users\27082\source\repos\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.csproj.CopyComplete
+C:\Users\27082\source\repos\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.exe
+C:\Users\27082\source\repos\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.pdb
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\obj\Debug\Ins.Forms.Acc.resources
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\obj\Debug\Ins.Forms.Link.resources
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\obj\Debug\Ins.Forms.Form1.resources
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\obj\Debug\Ins.Forms.Plots.resources
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\obj\Debug\Ins.Forms.Properties.Resources.resources
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\obj\Debug\Ins.Forms.Setting.resources
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\obj\Debug\Ins.Forms.csproj.GenerateResource.cache
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\obj\Debug\Ins.Forms.csproj.CoreCompileInputs.cache
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\obj\Debug\Ins.Forms.exe
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\obj\Debug\Ins.Forms.pdb
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\bin\Debug\Ins.Forms.exe.config
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\bin\Debug\Ins.Forms.exe
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\bin\Debug\Ins.Forms.pdb
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\bin\Debug\Gcs.Base.dll
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\bin\Debug\Ins.Comm.dll
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\bin\Debug\Ins.Comm.pdb
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\obj\Debug\Ins.Forms.csproj.CopyComplete
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\obj\Debug\Ins.Forms.csproj.AssemblyReference.cache
+C:\Users\27082\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\Ins.Forms\bin\Debug\Ins.Forms.exe.config
+C:\Users\27082\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\Ins.Forms\bin\Debug\Ins.Forms.exe
+C:\Users\27082\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\Ins.Forms\bin\Debug\Ins.Forms.pdb
+C:\Users\27082\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\Ins.Forms\bin\Debug\Gcs.Base.dll
+C:\Users\27082\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\Ins.Forms\bin\Debug\Ins.Comm.dll
+C:\Users\27082\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\Ins.Forms\bin\Debug\Ins.Comm.pdb
+C:\Users\27082\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.csproj.AssemblyReference.cache
+C:\Users\27082\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.Acc.resources
+C:\Users\27082\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.Link.resources
+C:\Users\27082\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.Form1.resources
+C:\Users\27082\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.Plots.resources
+C:\Users\27082\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.Properties.Resources.resources
+C:\Users\27082\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.Setting.resources
+C:\Users\27082\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.csproj.GenerateResource.cache
+C:\Users\27082\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.csproj.CoreCompileInputs.cache
+C:\Users\27082\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.csproj.CopyComplete
+C:\Users\27082\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.exe
+C:\Users\27082\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.pdb
+D:\Ins.Forms\Ins.Forms\bin\Debug\Ins.Forms.exe.config
+D:\Ins.Forms\Ins.Forms\bin\Debug\Ins.Forms.exe
+D:\Ins.Forms\Ins.Forms\bin\Debug\Ins.Forms.pdb
+D:\Ins.Forms\Ins.Forms\bin\Debug\Gcs.Base.dll
+D:\Ins.Forms\Ins.Forms\bin\Debug\Ins.Comm.dll
+D:\Ins.Forms\Ins.Forms\bin\Debug\Ins.Comm.pdb
+D:\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.Acc.resources
+D:\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.Link.resources
+D:\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.Form1.resources
+D:\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.Plots.resources
+D:\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.Properties.Resources.resources
+D:\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.Setting.resources
+D:\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.csproj.GenerateResource.cache
+D:\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.csproj.CoreCompileInputs.cache
+D:\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.csproj.CopyComplete
+D:\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.exe
+D:\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.pdb
+D:\Ins.Forms\Ins.Forms\obj\Debug\Ins.Forms.csproj.AssemblyReference.cache
+D:\Ins.Forms - 修改界面\Ins.Forms\bin\Debug\Ins.Forms.exe.config
+D:\Ins.Forms - 修改界面\Ins.Forms\bin\Debug\Ins.Forms.exe
+D:\Ins.Forms - 修改界面\Ins.Forms\bin\Debug\Ins.Forms.pdb
+D:\Ins.Forms - 修改界面\Ins.Forms\bin\Debug\Gcs.Base.dll
+D:\Ins.Forms - 修改界面\Ins.Forms\bin\Debug\Ins.Comm.dll
+D:\Ins.Forms - 修改界面\Ins.Forms\bin\Debug\Ins.Comm.pdb
+D:\Ins.Forms - 修改界面\Ins.Forms\obj\Debug\Ins.Forms.Acc.resources
+D:\Ins.Forms - 修改界面\Ins.Forms\obj\Debug\Ins.Forms.Link.resources
+D:\Ins.Forms - 修改界面\Ins.Forms\obj\Debug\Ins.Forms.Plots.resources
+D:\Ins.Forms - 修改界面\Ins.Forms\obj\Debug\Ins.Forms.Properties.Resources.resources
+D:\Ins.Forms - 修改界面\Ins.Forms\obj\Debug\Ins.Forms.Setting.resources
+D:\Ins.Forms - 修改界面\Ins.Forms\obj\Debug\Ins.Forms.csproj.GenerateResource.cache
+D:\Ins.Forms - 修改界面\Ins.Forms\obj\Debug\Ins.Forms.csproj.CoreCompileInputs.cache
+D:\Ins.Forms - 修改界面\Ins.Forms\obj\Debug\Ins.Forms.csproj.CopyComplete
+D:\Ins.Forms - 修改界面\Ins.Forms\obj\Debug\Ins.Forms.exe
+D:\Ins.Forms - 修改界面\Ins.Forms\obj\Debug\Ins.Forms.pdb
+D:\Ins.Forms - 修改界面\Ins.Forms\obj\Debug\Ins.Forms.csproj.AssemblyReference.cache
+D:\Ins.Forms - 修改界面\Ins.Forms\obj\Debug\Ins.Forms.Panel_set.resources
+D:\Ins.Forms - 修改界面\Ins.Forms\obj\Debug\Ins.Forms.Form1.resources
+D:\Ins.Forms - 修改界面\Ins.Forms\obj\Debug\Ins.Forms.Datasend.resources
+D:\飞控\上位机\Ins.Forms - 修改界面 (3)\Ins.Forms\bin\Debug\Ins.Forms.exe.config
+D:\飞控\上位机\Ins.Forms - 修改界面 (3)\Ins.Forms\bin\Debug\Ins.Forms.exe
+D:\飞控\上位机\Ins.Forms - 修改界面 (3)\Ins.Forms\bin\Debug\Ins.Forms.pdb
+D:\飞控\上位机\Ins.Forms - 修改界面 (3)\Ins.Forms\bin\Debug\Gcs.Base.dll
+D:\飞控\上位机\Ins.Forms - 修改界面 (3)\Ins.Forms\bin\Debug\Ins.Comm.dll
+D:\飞控\上位机\Ins.Forms - 修改界面 (3)\Ins.Forms\bin\Debug\Ins.Comm.pdb
+D:\飞控\上位机\Ins.Forms - 修改界面 (3)\Ins.Forms\obj\Debug\Ins.Forms.csproj.AssemblyReference.cache
+D:\飞控\上位机\Ins.Forms - 修改界面 (3)\Ins.Forms\obj\Debug\Ins.Forms.Acc.resources
+D:\飞控\上位机\Ins.Forms - 修改界面 (3)\Ins.Forms\obj\Debug\Ins.Forms.Datasend.resources
+D:\飞控\上位机\Ins.Forms - 修改界面 (3)\Ins.Forms\obj\Debug\Ins.Forms.Link.resources
+D:\飞控\上位机\Ins.Forms - 修改界面 (3)\Ins.Forms\obj\Debug\Ins.Forms.Form1.resources
+D:\飞控\上位机\Ins.Forms - 修改界面 (3)\Ins.Forms\obj\Debug\Ins.Forms.Plots.resources
+D:\飞控\上位机\Ins.Forms - 修改界面 (3)\Ins.Forms\obj\Debug\Ins.Forms.Properties.Resources.resources
+D:\飞控\上位机\Ins.Forms - 修改界面 (3)\Ins.Forms\obj\Debug\Ins.Forms.Panel_set.resources
+D:\飞控\上位机\Ins.Forms - 修改界面 (3)\Ins.Forms\obj\Debug\Ins.Forms.Setting.resources
+D:\飞控\上位机\Ins.Forms - 修改界面 (3)\Ins.Forms\obj\Debug\Ins.Forms.csproj.GenerateResource.cache
+D:\飞控\上位机\Ins.Forms - 修改界面 (3)\Ins.Forms\obj\Debug\Ins.Forms.csproj.CoreCompileInputs.cache
+D:\飞控\上位机\Ins.Forms - 修改界面 (3)\Ins.Forms\obj\Debug\Ins.Forms.csproj.CopyComplete
+D:\飞控\上位机\Ins.Forms - 修改界面 (3)\Ins.Forms\obj\Debug\Ins.Forms.exe
+D:\飞控\上位机\Ins.Forms - 修改界面 (3)\Ins.Forms\obj\Debug\Ins.Forms.pdb

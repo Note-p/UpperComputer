@@ -1,0 +1,29 @@
+C:\Users\27082\source\repos\Ins.Forms\Ins.Comm\bin\Debug\Ins.Comm.pdb
+C:\Users\27082\source\repos\Ins.Forms\Ins.Comm\bin\Debug\Gcs.Base.dll
+C:\Users\27082\source\repos\Ins.Forms\Ins.Comm\obj\Debug\Ins.Comm.csproj.CoreCompileInputs.cache
+C:\Users\27082\source\repos\Ins.Forms\Ins.Comm\obj\Debug\Ins.Comm.csproj.CopyComplete
+C:\Users\27082\source\repos\Ins.Forms\Ins.Comm\obj\Debug\Ins.Comm.dll
+C:\Users\27082\source\repos\Ins.Forms\Ins.Comm\obj\Debug\Ins.Comm.pdb
+C:\Users\27082\source\repos\Ins.Forms\Ins.Comm\bin\Debug\Ins.Comm.dll
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Comm\bin\Debug\Ins.Comm.dll
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Comm\bin\Debug\Ins.Comm.pdb
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Comm\bin\Debug\Gcs.Base.dll
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Comm\obj\Debug\Ins.Comm.csproj.CoreCompileInputs.cache
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Comm\obj\Debug\Ins.Comm.csproj.CopyComplete
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Comm\obj\Debug\Ins.Comm.dll
+C:\Users\琴师\Documents\WeChat Files\wxid_wsbai0953y4h21\FileStorage\File\2023-09\Ins.Comm\obj\Debug\Ins.Comm.pdb
+D:\Ins.Forms\Ins.Comm\bin\Debug\Ins.Comm.dll
+D:\Ins.Forms\Ins.Comm\bin\Debug\Ins.Comm.pdb
+D:\Ins.Forms\Ins.Comm\bin\Debug\Gcs.Base.dll
+D:\Ins.Forms\Ins.Comm\obj\Debug\Ins.Comm.csproj.CoreCompileInputs.cache
+D:\Ins.Forms\Ins.Comm\obj\Debug\Ins.Comm.csproj.CopyComplete
+D:\Ins.Forms\Ins.Comm\obj\Debug\Ins.Comm.dll
+D:\Ins.Forms\Ins.Comm\obj\Debug\Ins.Comm.pdb
+D:\Ins.Forms\Ins.Comm\obj\Debug\Ins.Comm.csproj.AssemblyReference.cache
+D:\Ins.Forms - 修改界面\Ins.Comm\bin\Debug\Ins.Comm.dll
+D:\Ins.Forms - 修改界面\Ins.Comm\bin\Debug\Ins.Comm.pdb
+D:\Ins.Forms - 修改界面\Ins.Comm\bin\Debug\Gcs.Base.dll
+D:\Ins.Forms - 修改界面\Ins.Comm\obj\Debug\Ins.Comm.csproj.CoreCompileInputs.cache
+D:\Ins.Forms - 修改界面\Ins.Comm\obj\Debug\Ins.Comm.csproj.CopyComplete
+D:\Ins.Forms - 修改界面\Ins.Comm\obj\Debug\Ins.Comm.dll
+D:\Ins.Forms - 修改界面\Ins.Comm\obj\Debug\Ins.Comm.pdb
